@@ -11,7 +11,7 @@
 
 My name is Jiecheng, or you can call me Jason. I am a third year **Communication** major, and I am also a **Design** and **Computer Science** minor.
 
-![A profile picture of me](./media/profile.JPG)
+![A profile picture of me](./media/profile.jpg)
 
 I'm a student with a passion for **front-end development**, **design**, and **visual art**. I have a talent for combining technical skills with a creative eye to produce beautiful and functional websites.
 
@@ -56,7 +56,7 @@ Steps:
 2. Add files to the staging area by pressing the **"+"** icon
 3. Type in the commit message in the textbox
 4. Press Commit button ![commit button](./media/commit.png)
-5. Press publicize button
+5. Press Sync Changes button ![commit button](./media/syncchanges.png)
 
 ### Lab 1 Tasks
 - [x] Part 1. Installing Visual Studio Code and Extensions
