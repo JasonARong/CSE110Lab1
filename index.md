@@ -61,4 +61,4 @@ Steps:
 ### Lab 1 Tasks
 - [x] Part 1. Installing Visual Studio Code and Extensions
 - [X] Part 2. (Re)Familiarizing Ourselves with Git
-- [ ] Part 3. Using Markdown
+- [x] Part 3. Using Markdown
